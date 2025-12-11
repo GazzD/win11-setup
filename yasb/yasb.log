@@ -1,0 +1,1721 @@
+2025-11-30 00:02:13,593 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.5
+2025-11-30 00:02:13,594 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2025-11-30 00:02:13,594 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-11-30 00:02:13,640 [INFO] [MainThread] [root/config.py:64]: Created default config file at C:\Users\vcardozo\.config\yasb\config.yaml
+2025-11-30 00:02:13,666 [INFO] [MainThread] [root/config.py:78]: Created default stylesheet at C:\Users\vcardozo\.config\yasb\styles.css
+2025-11-30 00:02:14,686 [ERROR] [MainThread] [root/weather.py:60]: API key or location is missing. Please provide a valid API key and location.
+2025-11-30 00:02:14,703 [INFO] [MainThread] [root/service.py:39]: AudioInputService starting...
+2025-11-30 00:02:14,738 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2025-11-30 00:02:15,456 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-11-30 00:02:15,457 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-11-30 00:02:15,458 [INFO] [MainThread] [root/bar_manager.py:85]: Starting KomorebiEventListener...
+2025-11-30 00:02:15,458 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\vcardozo\.config\yasb
+2025-11-30 00:02:15,522 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-72849d3c-cd77-11f0-b5db-f43bd883abca
+2025-11-30 00:02:15,541 [INFO] [MainThread] [root/update_service.py:404]: Background update checker started
+2025-11-30 00:02:15,541 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-11-30 00:02:15,543 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-11-30 00:02:35,564 [INFO] [MainThread] [root/utilities.py:384]: YASB added to startup
+2025-11-30 00:15:48,010 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-11-30 00:15:48,123 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-11-30 00:15:48,124 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-11-30 00:15:48,131 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-11-30 00:15:48,266 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-11-30 00:15:48,266 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-11-30 00:15:48,266 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping KomorebiEventListener...
+2025-11-30 00:15:48,278 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-11-30 00:15:48,279 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-11-30 00:15:48,288 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-11-30 00:15:48,774 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.5
+2025-11-30 00:15:48,776 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2025-11-30 00:15:48,776 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-11-30 00:15:50,581 [ERROR] [MainThread] [root/weather.py:60]: API key or location is missing. Please provide a valid API key and location.
+2025-11-30 00:15:50,622 [INFO] [MainThread] [root/service.py:39]: AudioInputService starting...
+2025-11-30 00:15:50,719 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2025-11-30 00:15:51,716 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-11-30 00:15:51,717 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-11-30 00:15:51,718 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\vcardozo\.config\yasb
+2025-11-30 00:15:51,782 [INFO] [MainThread] [root/update_service.py:404]: Background update checker started
+2025-11-30 00:15:51,783 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-11-30 00:15:51,785 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-11-30 00:19:31,016 [INFO] [MainThread] [root/controller.py:15]: Reloading Application from tray...
+2025-11-30 00:19:31,120 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-11-30 00:19:31,121 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-11-30 00:19:31,499 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-11-30 00:19:31,499 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-11-30 00:19:31,509 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-11-30 00:19:31,512 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-11-30 00:19:31,521 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-11-30 00:19:31,846 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.5
+2025-11-30 00:19:31,848 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2025-11-30 00:19:31,849 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-11-30 00:19:33,166 [ERROR] [MainThread] [root/weather.py:60]: API key or location is missing. Please provide a valid API key and location.
+2025-11-30 00:19:33,221 [INFO] [MainThread] [root/service.py:39]: AudioInputService starting...
+2025-11-30 00:19:33,328 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2025-11-30 00:19:34,448 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-11-30 00:19:34,450 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-11-30 00:19:34,450 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\vcardozo\.config\yasb
+2025-11-30 00:19:34,512 [INFO] [MainThread] [root/update_service.py:404]: Background update checker started
+2025-11-30 00:19:34,512 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-11-30 00:19:34,514 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-11-30 00:29:05,447 [ERROR] [MainThread] [root/config.py:115]: The config file 'C:\Users\vcardozo\.config\yasb\config.yaml' contains validation errors. Please fix:
+widgets:
+- wifi:
+  - null value not allowed
+
+2025-11-30 00:29:10,812 [ERROR] [MainThread] [root/bar_manager.py:56]: Error loading config: document is missing
+2025-11-30 00:29:10,839 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-11-30 00:29:10,947 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-11-30 00:29:10,947 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-11-30 00:29:10,952 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-11-30 00:29:11,289 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-11-30 00:29:11,290 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-11-30 00:29:11,301 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-11-30 00:29:11,306 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-11-30 00:29:11,319 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-11-30 00:29:11,735 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.5
+2025-11-30 00:29:11,737 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2025-11-30 00:29:11,737 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-11-30 00:29:13,265 [ERROR] [MainThread] [root/weather.py:60]: API key or location is missing. Please provide a valid API key and location.
+2025-11-30 00:29:13,298 [INFO] [MainThread] [root/service.py:39]: AudioInputService starting...
+2025-11-30 00:29:13,395 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2025-11-30 00:29:14,119 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-11-30 00:29:14,119 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-11-30 00:29:14,121 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\vcardozo\.config\yasb
+2025-11-30 00:29:14,279 [INFO] [MainThread] [root/update_service.py:404]: Background update checker started
+2025-11-30 00:29:14,279 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-11-30 00:29:14,285 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-11-30 00:29:35,735 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-11-30 00:29:35,844 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-11-30 00:29:35,844 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-11-30 00:29:35,855 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-11-30 00:29:36,116 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-11-30 00:29:36,117 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-11-30 00:29:36,124 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-11-30 00:29:36,125 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-11-30 00:29:36,135 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-11-30 00:29:36,531 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.5
+2025-11-30 00:29:36,535 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2025-11-30 00:29:36,536 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-11-30 00:29:38,614 [ERROR] [MainThread] [root/weather.py:60]: API key or location is missing. Please provide a valid API key and location.
+2025-11-30 00:29:38,649 [INFO] [MainThread] [root/service.py:39]: AudioInputService starting...
+2025-11-30 00:29:38,747 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2025-11-30 00:29:39,436 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-11-30 00:29:39,437 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-11-30 00:29:39,438 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\vcardozo\.config\yasb
+2025-11-30 00:29:39,582 [ERROR] [MainThread] [root/config.py:115]: The config file 'C:\Users\vcardozo\.config\yasb\config.yaml' contains validation errors. Please fix:
+bars:
+- primary-bar:
+  - widgets:
+    - right:
+      - 1:
+        - null value not allowed
+
+2025-11-30 00:29:39,626 [ERROR] [MainThread] [root/main.py:156]: Exception during application startup
+Traceback (most recent call last):
+  File "main.py", line 154, in <module>
+  File "main.py", line 122, in main
+  File "D:\a\yasb\yasb\src\core\tray.py", line 39, in __init__
+  File "D:\a\yasb\yasb\src\core\tray.py", line 66, in _load_config
+TypeError: 'NoneType' object is not subscriptable
+2025-11-30 00:30:34,832 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.5
+2025-11-30 00:30:34,833 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2025-11-30 00:30:34,833 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-11-30 00:30:35,319 [ERROR] [MainThread] [root/weather.py:60]: API key or location is missing. Please provide a valid API key and location.
+2025-11-30 00:30:35,336 [INFO] [MainThread] [root/service.py:39]: AudioInputService starting...
+2025-11-30 00:30:35,367 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2025-11-30 00:30:35,935 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-11-30 00:30:35,936 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-11-30 00:30:35,937 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\vcardozo\.config\yasb
+2025-11-30 00:30:36,031 [INFO] [MainThread] [root/update_service.py:404]: Background update checker started
+2025-11-30 00:30:36,031 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-11-30 00:30:36,040 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-11-30 00:30:41,872 [DEBUG] [MainThread] [wifi_widget/wifi_managers.py:262]: Scanning for WiFi networks...
+2025-11-30 00:31:19,758 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-11-30 00:31:19,867 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-11-30 00:31:19,867 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-11-30 00:31:19,871 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-11-30 00:31:20,134 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-11-30 00:31:20,135 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-11-30 00:31:20,143 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-11-30 00:31:20,146 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-11-30 00:31:20,155 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-11-30 00:31:20,550 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.5
+2025-11-30 00:31:20,553 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2025-11-30 00:31:20,554 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-11-30 00:31:22,216 [ERROR] [MainThread] [root/weather.py:60]: API key or location is missing. Please provide a valid API key and location.
+2025-11-30 00:31:22,255 [INFO] [MainThread] [root/service.py:39]: AudioInputService starting...
+2025-11-30 00:31:22,389 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2025-11-30 00:31:23,175 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-11-30 00:31:23,177 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-11-30 00:31:23,178 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\vcardozo\.config\yasb
+2025-11-30 00:31:23,393 [INFO] [MainThread] [root/update_service.py:404]: Background update checker started
+2025-11-30 00:31:23,394 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-11-30 00:31:23,400 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-11-30 00:31:24,008 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-11-30 00:31:24,122 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-11-30 00:31:24,122 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-11-30 00:31:24,128 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-11-30 00:31:24,431 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-11-30 00:31:24,432 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-11-30 00:31:24,440 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-11-30 00:31:24,451 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-11-30 00:31:24,458 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-11-30 00:31:24,864 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.5
+2025-11-30 00:31:24,866 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2025-11-30 00:31:24,866 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-11-30 00:31:26,092 [ERROR] [MainThread] [root/weather.py:60]: API key or location is missing. Please provide a valid API key and location.
+2025-11-30 00:31:26,138 [INFO] [MainThread] [root/service.py:39]: AudioInputService starting...
+2025-11-30 00:31:26,254 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2025-11-30 00:31:27,060 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-11-30 00:31:27,062 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-11-30 00:31:27,063 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\vcardozo\.config\yasb
+2025-11-30 00:31:27,192 [INFO] [MainThread] [root/update_service.py:404]: Background update checker started
+2025-11-30 00:31:27,193 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-11-30 00:31:27,197 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-11-30 00:32:31,495 [DEBUG] [MainThread] [wifi_widget/wifi_managers.py:262]: Scanning for WiFi networks...
+2025-11-30 00:34:29,261 [ERROR] [MainThread] [root/config.py:115]: The config file 'C:\Users\vcardozo\.config\yasb\config.yaml' contains validation errors. Please fix:
+widgets:
+- battery:
+  - null value not allowed
+
+2025-11-30 00:34:36,615 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-11-30 00:34:36,717 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-11-30 00:34:36,717 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-11-30 00:34:36,722 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-11-30 00:34:36,991 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-11-30 00:34:36,992 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-11-30 00:34:37,005 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-11-30 00:34:37,010 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-11-30 00:34:37,020 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-11-30 00:34:37,358 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.5
+2025-11-30 00:34:37,360 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2025-11-30 00:34:37,360 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-11-30 00:34:38,991 [ERROR] [MainThread] [root/weather.py:60]: API key or location is missing. Please provide a valid API key and location.
+2025-11-30 00:34:39,032 [INFO] [MainThread] [root/service.py:39]: AudioInputService starting...
+2025-11-30 00:34:39,119 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2025-11-30 00:34:39,840 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-11-30 00:34:39,842 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-11-30 00:34:39,843 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\vcardozo\.config\yasb
+2025-11-30 00:34:39,983 [INFO] [MainThread] [root/update_service.py:404]: Background update checker started
+2025-11-30 00:34:39,983 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-11-30 00:34:39,987 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-11-30 00:35:07,720 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-11-30 00:35:07,827 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-11-30 00:35:07,828 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-11-30 00:35:07,837 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-11-30 00:35:08,109 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-11-30 00:35:08,110 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-11-30 00:35:08,117 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-11-30 00:35:08,123 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-11-30 00:35:08,131 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-11-30 00:35:08,509 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.5
+2025-11-30 00:35:08,510 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2025-11-30 00:35:08,511 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-11-30 00:35:10,206 [ERROR] [MainThread] [root/weather.py:60]: API key or location is missing. Please provide a valid API key and location.
+2025-11-30 00:35:10,256 [INFO] [MainThread] [root/service.py:39]: AudioInputService starting...
+2025-11-30 00:35:10,355 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2025-11-30 00:35:11,122 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-11-30 00:35:11,123 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-11-30 00:35:11,125 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\vcardozo\.config\yasb
+2025-11-30 00:35:11,218 [INFO] [MainThread] [root/update_service.py:404]: Background update checker started
+2025-11-30 00:35:11,219 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-11-30 00:35:11,224 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-11-30 00:37:15,094 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-11-30 00:37:15,201 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-11-30 00:37:15,202 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-11-30 00:37:15,213 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-11-30 00:37:15,492 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-11-30 00:37:15,493 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-11-30 00:37:15,503 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-11-30 00:37:15,512 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-11-30 00:37:15,520 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-11-30 00:37:15,966 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.5
+2025-11-30 00:37:15,967 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2025-11-30 00:37:15,968 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-11-30 00:37:17,766 [INFO] [MainThread] [root/service.py:39]: AudioInputService starting...
+2025-11-30 00:37:17,871 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2025-11-30 00:37:18,666 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-11-30 00:37:18,666 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-11-30 00:37:18,668 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\vcardozo\.config\yasb
+2025-11-30 00:37:18,802 [INFO] [MainThread] [root/update_service.py:404]: Background update checker started
+2025-11-30 00:37:18,802 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-11-30 00:37:18,805 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-11-30 00:38:36,805 [INFO] [MainThread] [root/controller.py:35]: Exiting Application...
+2025-11-30 00:38:36,910 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-11-30 00:38:36,911 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-11-30 00:38:37,253 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-11-30 00:38:37,254 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-11-30 00:38:37,276 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-11-30 00:38:37,284 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-11-30 00:38:37,296 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-11-30 00:42:06,047 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.5
+2025-11-30 00:42:06,050 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2025-11-30 00:42:06,051 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-11-30 00:42:09,236 [ERROR] [MainThread] [root/weather.py:60]: API key or location is missing. Please provide a valid API key and location.
+2025-11-30 00:42:10,136 [INFO] [MainThread] [root/service.py:39]: AudioInputService starting...
+2025-11-30 00:42:10,373 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2025-11-30 00:42:11,221 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-11-30 00:42:11,222 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-11-30 00:42:11,224 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\vcardozo\.config\yasb
+2025-11-30 00:42:11,300 [INFO] [MainThread] [root/update_service.py:404]: Background update checker started
+2025-11-30 00:42:11,301 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-11-30 00:42:11,302 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-11-30 00:47:57,016 [ERROR] [MainThread] [root/config.py:115]: The config file 'C:\Users\vcardozo\.config\yasb\config.yaml' contains validation errors. Please fix:
+widgets:
+- cpu:
+  - null value not allowed
+
+2025-11-30 00:48:04,310 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-11-30 00:48:04,427 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-11-30 00:48:04,427 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-11-30 00:48:04,436 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-11-30 00:48:04,563 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-11-30 00:48:04,563 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-11-30 00:48:04,571 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-11-30 00:48:04,583 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-11-30 00:48:04,588 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-11-30 00:48:05,278 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.5
+2025-11-30 00:48:05,281 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2025-11-30 00:48:05,282 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-11-30 00:48:06,687 [ERROR] [MainThread] [root/weather.py:60]: API key or location is missing. Please provide a valid API key and location.
+2025-11-30 00:48:07,111 [INFO] [MainThread] [root/service.py:39]: AudioInputService starting...
+2025-11-30 00:48:07,312 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2025-11-30 00:48:07,848 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-11-30 00:48:07,850 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-11-30 00:48:07,851 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\vcardozo\.config\yasb
+2025-11-30 00:48:07,928 [INFO] [MainThread] [root/update_service.py:404]: Background update checker started
+2025-11-30 00:48:07,928 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-11-30 00:48:07,929 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-11-30 00:48:51,664 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-11-30 00:48:51,766 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-11-30 00:48:51,766 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-11-30 00:48:51,775 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-11-30 00:48:51,882 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-11-30 00:48:51,882 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-11-30 00:48:51,886 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-11-30 00:48:51,890 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-11-30 00:48:51,895 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-11-30 00:48:52,737 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.5
+2025-11-30 00:48:52,739 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2025-11-30 00:48:52,741 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-11-30 00:48:54,572 [ERROR] [MainThread] [root/weather.py:60]: API key or location is missing. Please provide a valid API key and location.
+2025-11-30 00:48:54,981 [INFO] [MainThread] [root/service.py:39]: AudioInputService starting...
+2025-11-30 00:48:55,139 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2025-11-30 00:48:55,663 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-11-30 00:48:55,663 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-11-30 00:48:55,664 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\vcardozo\.config\yasb
+2025-11-30 00:48:55,751 [ERROR] [MainThread] [root/config.py:115]: The config file 'C:\Users\vcardozo\.config\yasb\config.yaml' contains validation errors. Please fix:
+widgets:
+- memory:
+  - null value not allowed
+
+2025-11-30 00:48:55,780 [ERROR] [MainThread] [root/main.py:156]: Exception during application startup
+Traceback (most recent call last):
+  File "main.py", line 154, in <module>
+  File "main.py", line 122, in main
+  File "D:\a\yasb\yasb\src\core\tray.py", line 39, in __init__
+  File "D:\a\yasb\yasb\src\core\tray.py", line 66, in _load_config
+TypeError: 'NoneType' object is not subscriptable
+2025-11-30 00:50:16,048 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.5
+2025-11-30 00:50:16,049 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2025-11-30 00:50:16,050 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-11-30 00:50:16,408 [ERROR] [MainThread] [root/weather.py:60]: API key or location is missing. Please provide a valid API key and location.
+2025-11-30 00:50:16,533 [INFO] [MainThread] [root/service.py:39]: AudioInputService starting...
+2025-11-30 00:50:16,568 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2025-11-30 00:50:16,851 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-11-30 00:50:16,852 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-11-30 00:50:16,853 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\vcardozo\.config\yasb
+2025-11-30 00:50:16,929 [INFO] [MainThread] [root/update_service.py:404]: Background update checker started
+2025-11-30 00:50:16,929 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-11-30 00:50:16,931 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-11-30 01:05:33,327 [INFO] [MainThread] [root/controller.py:35]: Exiting Application...
+2025-11-30 01:05:33,439 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-11-30 01:05:33,439 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-11-30 01:05:33,586 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-11-30 01:05:33,587 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-11-30 01:05:33,601 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-11-30 01:05:33,611 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-11-30 01:05:33,616 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-11-30 18:53:06,603 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.5
+2025-11-30 18:53:06,606 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2025-11-30 18:53:06,607 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-11-30 18:53:08,277 [ERROR] [MainThread] [root/weather.py:60]: API key or location is missing. Please provide a valid API key and location.
+2025-11-30 18:53:08,796 [INFO] [MainThread] [root/service.py:39]: AudioInputService starting...
+2025-11-30 18:53:08,867 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2025-11-30 18:53:09,414 [ERROR] [MainThread] [root/weather.py:60]: API key or location is missing. Please provide a valid API key and location.
+2025-11-30 18:53:09,646 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-11-30 18:53:09,646 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-11-30 18:53:09,649 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\vcardozo\.config\yasb
+2025-11-30 18:53:10,540 [INFO] [MainThread] [root/update_service.py:404]: Background update checker started
+2025-11-30 18:53:10,540 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-11-30 18:53:10,569 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-11-30 18:54:47,312 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.5
+2025-11-30 18:54:47,315 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2025-11-30 18:54:47,316 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-11-30 18:54:47,317 [ERROR] [MainThread] [root/main.py:74]: Another instance of the YASB is already running.
+2025-11-30 20:13:50,325 [INFO] [MainThread] [root/bar_manager.py:80]: Screens updated. Re-initialising all bars.
+2025-11-30 20:13:50,327 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of screen update.
+2025-11-30 20:13:50,428 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-11-30 20:13:50,428 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-11-30 20:13:50,897 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-11-30 20:13:50,898 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-11-30 20:13:50,931 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-11-30 20:13:50,939 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-11-30 20:13:50,951 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-11-30 20:13:51,739 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.5
+2025-11-30 20:13:51,741 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2025-11-30 20:13:51,741 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-11-30 20:13:53,545 [ERROR] [MainThread] [root/weather.py:60]: API key or location is missing. Please provide a valid API key and location.
+2025-11-30 20:13:54,124 [INFO] [MainThread] [root/service.py:39]: AudioInputService starting...
+2025-11-30 20:13:54,159 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2025-11-30 20:13:54,880 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-11-30 20:13:54,881 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-11-30 20:13:54,883 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\vcardozo\.config\yasb
+2025-11-30 20:13:54,957 [INFO] [MainThread] [root/update_service.py:404]: Background update checker started
+2025-11-30 20:13:54,957 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-11-30 20:13:54,959 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-12-01 08:28:34,648 [INFO] [MainThread] [root/controller.py:35]: Exiting Application...
+2025-12-01 08:28:34,755 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-12-01 08:28:34,756 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-12-01 08:28:35,310 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-12-01 08:28:35,312 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-12-01 08:28:35,486 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-12-01 08:28:35,498 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-12-01 08:28:35,502 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-12-01 09:42:58,107 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.5
+2025-12-01 09:42:58,110 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2025-12-01 09:42:58,111 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-12-01 09:43:00,310 [ERROR] [MainThread] [root/weather.py:60]: API key or location is missing. Please provide a valid API key and location.
+2025-12-01 09:43:00,965 [INFO] [MainThread] [root/service.py:39]: AudioInputService starting...
+2025-12-01 09:43:01,205 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2025-12-01 09:43:01,897 [ERROR] [MainThread] [root/weather.py:60]: API key or location is missing. Please provide a valid API key and location.
+2025-12-01 09:43:02,316 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-12-01 09:43:02,316 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-12-01 09:43:02,317 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\vcardozo\.config\yasb
+2025-12-01 09:43:02,438 [INFO] [MainThread] [root/update_service.py:404]: Background update checker started
+2025-12-01 09:43:02,439 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-12-01 09:43:02,441 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-12-01 10:24:38,336 [INFO] [MainThread] [root/bar_manager.py:80]: Screens updated. Re-initialising all bars.
+2025-12-01 10:24:38,338 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of screen update.
+2025-12-01 10:24:38,444 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-12-01 10:24:38,445 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-12-01 10:24:38,446 [INFO] [MainThread] [root/bar.py:154]: Screen geometry changed. Updating position for bar primary-bar on screen \\.\DISPLAY1
+2025-12-01 10:24:39,204 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-12-01 10:24:39,204 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-12-01 10:24:39,228 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-12-01 10:24:39,239 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-12-01 10:24:39,246 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-12-01 10:24:40,404 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.5
+2025-12-01 10:24:40,406 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2025-12-01 10:24:40,407 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-12-01 10:24:42,488 [ERROR] [MainThread] [root/weather.py:60]: API key or location is missing. Please provide a valid API key and location.
+2025-12-01 10:24:42,962 [INFO] [MainThread] [root/service.py:39]: AudioInputService starting...
+2025-12-01 10:24:43,134 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2025-12-01 10:24:44,119 [ERROR] [MainThread] [root/weather.py:60]: API key or location is missing. Please provide a valid API key and location.
+2025-12-01 10:24:44,689 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-12-01 10:24:44,690 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-12-01 10:24:44,691 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\vcardozo\.config\yasb
+2025-12-01 10:24:44,815 [INFO] [MainThread] [root/update_service.py:404]: Background update checker started
+2025-12-01 10:24:44,815 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-12-01 10:24:44,820 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-12-01 10:27:19,875 [INFO] [MainThread] [root/bar_manager.py:80]: Screens updated. Re-initialising all bars.
+2025-12-01 10:27:19,875 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of screen update.
+2025-12-01 10:27:19,985 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-12-01 10:27:19,986 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-12-01 10:27:19,986 [INFO] [MainThread] [root/bar.py:154]: Screen geometry changed. Updating position for bar primary-bar on screen \\.\DISPLAY1
+2025-12-01 10:27:20,305 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-12-01 10:27:20,308 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-12-01 10:27:20,338 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-12-01 10:27:20,344 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-12-01 10:27:20,364 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-12-01 10:27:21,456 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.5
+2025-12-01 10:27:21,470 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2025-12-01 10:27:21,474 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-12-01 10:27:26,234 [ERROR] [MainThread] [root/weather.py:60]: API key or location is missing. Please provide a valid API key and location.
+2025-12-01 10:27:26,898 [INFO] [MainThread] [root/service.py:39]: AudioInputService starting...
+2025-12-01 10:27:27,024 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2025-12-01 10:27:27,162 [INFO] [MainThread] [root/bar_manager.py:80]: Screens updated. Re-initialising all bars.
+2025-12-01 10:27:27,162 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of screen update.
+2025-12-01 10:27:27,281 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-12-01 10:27:27,281 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-12-01 10:28:06,304 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.5
+2025-12-01 10:28:06,305 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2025-12-01 10:28:06,306 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-12-01 10:28:06,306 [ERROR] [MainThread] [root/main.py:74]: Another instance of the YASB is already running.
+2025-12-01 10:32:18,375 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.5
+2025-12-01 10:32:18,376 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2025-12-01 10:32:18,377 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-12-01 10:32:19,951 [ERROR] [MainThread] [root/weather.py:60]: API key or location is missing. Please provide a valid API key and location.
+2025-12-01 10:32:20,538 [INFO] [MainThread] [root/service.py:39]: AudioInputService starting...
+2025-12-01 10:32:20,602 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2025-12-01 10:32:21,283 [ERROR] [MainThread] [root/weather.py:60]: API key or location is missing. Please provide a valid API key and location.
+2025-12-01 10:32:21,642 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-12-01 10:32:21,643 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-12-01 10:32:21,646 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\vcardozo\.config\yasb
+2025-12-01 10:32:21,763 [INFO] [MainThread] [root/update_service.py:404]: Background update checker started
+2025-12-01 10:32:21,763 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-12-01 10:32:21,766 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-12-01 10:32:58,215 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.5
+2025-12-01 10:32:58,216 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2025-12-01 10:32:58,217 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-12-01 10:32:58,217 [ERROR] [MainThread] [root/main.py:74]: Another instance of the YASB is already running.
+2025-12-01 12:41:17,335 [ERROR] [MainThread] [root/config.py:115]: The config file 'C:\Users\vcardozo\.config\yasb\config.yaml' contains validation errors. Please fix:
+widgets:
+- language:
+  - null value not allowed
+
+2025-12-01 12:41:19,928 [ERROR] [MainThread] [root/config.py:115]: The config file 'C:\Users\vcardozo\.config\yasb\config.yaml' contains validation errors. Please fix:
+widgets:
+- language:
+  - null value not allowed
+
+2025-12-01 12:41:25,097 [ERROR] [MainThread] [root/config.py:115]: The config file 'C:\Users\vcardozo\.config\yasb\config.yaml' contains validation errors. Please fix:
+widgets:
+- language:
+  - null value not allowed
+
+2025-12-01 12:41:29,618 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-12-01 12:41:29,732 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-12-01 12:41:29,732 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-12-01 12:41:29,740 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-12-01 12:41:30,247 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-12-01 12:41:30,247 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-12-01 12:41:30,302 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-12-01 12:41:30,309 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-12-01 12:41:30,367 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-12-01 12:41:31,140 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.5
+2025-12-01 12:41:31,143 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2025-12-01 12:41:31,144 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-12-01 12:41:32,672 [WARNING] [MainThread] [root/widget_builder.py:40]: No widget config could be found for widget 'weather
+2025-12-01 12:41:33,464 [INFO] [MainThread] [root/service.py:39]: AudioInputService starting...
+2025-12-01 12:41:33,642 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2025-12-01 12:41:34,629 [WARNING] [MainThread] [root/widget_builder.py:37]: Ignoring construction of invalid widget 'weather'
+2025-12-01 12:41:35,057 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-12-01 12:41:35,058 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-12-01 12:41:35,058 [ERROR] [MainThread] [root/widget_builder.py:86]: Failed to add undefined widget(s)  - The widget "weather" is undefined.
+2025-12-01 12:41:35,098 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\vcardozo\.config\yasb
+2025-12-01 12:41:35,186 [INFO] [MainThread] [root/update_service.py:404]: Background update checker started
+2025-12-01 12:41:35,186 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-12-01 12:41:35,188 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-12-01 12:41:50,971 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-12-01 12:41:51,075 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-12-01 12:41:51,075 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-12-01 12:41:51,080 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-12-01 12:41:51,550 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-12-01 12:41:51,551 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-12-01 12:41:51,558 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.5
+2025-12-01 12:41:51,559 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2025-12-01 12:41:51,559 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-12-01 12:41:51,560 [INFO] [MainThread] [root/main.py:45]: Waiting for previous YASB instance to exit...
+2025-12-01 12:41:51,582 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-12-01 12:41:51,591 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-12-01 12:41:51,637 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-12-01 12:41:51,810 [INFO] [MainThread] [root/main.py:71]: Previous instance exited, continuing startup.
+2025-12-01 12:41:53,353 [WARNING] [MainThread] [root/widget_builder.py:40]: No widget config could be found for widget 'weather
+2025-12-01 12:41:53,856 [INFO] [MainThread] [root/service.py:39]: AudioInputService starting...
+2025-12-01 12:41:54,006 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2025-12-01 12:41:54,280 [ERROR] [MainThread] [root/weather.py:60]: API key or location is missing. Please provide a valid API key and location.
+2025-12-01 12:41:54,667 [WARNING] [MainThread] [root/widget_builder.py:37]: Ignoring construction of invalid widget 'weather'
+2025-12-01 12:41:54,736 [ERROR] [MainThread] [root/weather.py:60]: API key or location is missing. Please provide a valid API key and location.
+2025-12-01 12:41:55,134 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-12-01 12:41:55,136 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-12-01 12:41:55,136 [ERROR] [MainThread] [root/widget_builder.py:86]: Failed to add undefined widget(s)  - The widget "weather" is undefined.
+2025-12-01 12:41:55,174 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\vcardozo\.config\yasb
+2025-12-01 12:41:55,243 [INFO] [MainThread] [root/update_service.py:404]: Background update checker started
+2025-12-01 12:41:55,243 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-12-01 12:41:55,247 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-12-01 12:45:14,297 [ERROR] [MainThread] [root/bar_manager.py:56]: Error loading config: while scanning a simple key
+  in "C:\Users\vcardozo\.config\yasb\config.yaml", line 53, column 9
+could not find expected ':'
+  in "C:\Users\vcardozo\.config\yasb\config.yaml", line 54, column 9
+2025-12-01 12:45:15,202 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-12-01 12:45:15,307 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-12-01 12:45:15,307 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-12-01 12:45:15,313 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-12-01 12:45:15,791 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-12-01 12:45:15,791 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-12-01 12:45:15,812 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.5
+2025-12-01 12:45:15,814 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2025-12-01 12:45:15,815 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-12-01 12:45:15,815 [INFO] [MainThread] [root/main.py:45]: Waiting for previous YASB instance to exit...
+2025-12-01 12:45:15,838 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-12-01 12:45:15,841 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-12-01 12:45:15,882 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-12-01 12:45:16,066 [INFO] [MainThread] [root/main.py:71]: Previous instance exited, continuing startup.
+2025-12-01 12:45:17,483 [WARNING] [MainThread] [root/widget_builder.py:40]: No widget config could be found for widget 'weather
+2025-12-01 12:45:17,879 [WARNING] [MainThread] [root/widget_builder.py:40]: No widget config could be found for widget 'language
+2025-12-01 12:45:17,963 [INFO] [MainThread] [root/service.py:39]: AudioInputService starting...
+2025-12-01 12:45:18,157 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2025-12-01 12:45:18,498 [ERROR] [MainThread] [root/weather.py:60]: API key or location is missing. Please provide a valid API key and location.
+2025-12-01 12:45:18,895 [WARNING] [MainThread] [root/widget_builder.py:37]: Ignoring construction of invalid widget 'weather'
+2025-12-01 12:45:18,908 [WARNING] [MainThread] [root/widget_builder.py:37]: Ignoring construction of invalid widget 'language'
+2025-12-01 12:45:18,943 [ERROR] [MainThread] [root/weather.py:60]: API key or location is missing. Please provide a valid API key and location.
+2025-12-01 12:45:19,328 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-12-01 12:45:19,330 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-12-01 12:45:19,330 [ERROR] [MainThread] [root/widget_builder.py:86]: Failed to add undefined widget(s)  - The widget "weather" is undefined.
+ - The widget "language" is undefined.
+2025-12-01 12:45:19,369 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\vcardozo\.config\yasb
+2025-12-01 12:45:19,448 [INFO] [MainThread] [root/update_service.py:404]: Background update checker started
+2025-12-01 12:45:19,448 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-12-01 12:45:19,450 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-12-01 12:45:45,821 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-12-01 12:45:45,921 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-12-01 12:45:45,922 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-12-01 12:45:45,934 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-12-01 12:45:46,385 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-12-01 12:45:46,386 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-12-01 12:45:46,394 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.5
+2025-12-01 12:45:46,395 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2025-12-01 12:45:46,396 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-12-01 12:45:46,396 [INFO] [MainThread] [root/main.py:45]: Waiting for previous YASB instance to exit...
+2025-12-01 12:45:46,430 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-12-01 12:45:46,436 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-12-01 12:45:46,475 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-12-01 12:45:46,647 [INFO] [MainThread] [root/main.py:71]: Previous instance exited, continuing startup.
+2025-12-01 12:45:48,131 [WARNING] [MainThread] [root/widget_builder.py:40]: No widget config could be found for widget 'weather
+2025-12-01 12:45:48,623 [INFO] [MainThread] [root/service.py:39]: AudioInputService starting...
+2025-12-01 12:45:48,824 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2025-12-01 12:45:49,138 [ERROR] [MainThread] [root/weather.py:60]: API key or location is missing. Please provide a valid API key and location.
+2025-12-01 12:45:49,554 [WARNING] [MainThread] [root/widget_builder.py:37]: Ignoring construction of invalid widget 'weather'
+2025-12-01 12:45:49,609 [ERROR] [MainThread] [root/weather.py:60]: API key or location is missing. Please provide a valid API key and location.
+2025-12-01 12:45:49,953 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-12-01 12:45:49,953 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-12-01 12:45:49,954 [ERROR] [MainThread] [root/widget_builder.py:86]: Failed to add undefined widget(s)  - The widget "weather" is undefined.
+2025-12-01 12:45:50,004 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\vcardozo\.config\yasb
+2025-12-01 12:45:50,072 [INFO] [MainThread] [root/update_service.py:404]: Background update checker started
+2025-12-01 12:45:50,072 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-12-01 12:45:50,074 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-12-01 12:45:57,552 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-12-01 12:45:57,662 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-12-01 12:45:57,663 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-12-01 12:45:57,669 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-12-01 12:45:58,113 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.5
+2025-12-01 12:45:58,115 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2025-12-01 12:45:58,116 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-12-01 12:45:58,117 [INFO] [MainThread] [root/main.py:45]: Waiting for previous YASB instance to exit...
+2025-12-01 12:45:58,126 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-12-01 12:45:58,127 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-12-01 12:45:58,133 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-12-01 12:45:58,148 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-12-01 12:45:58,202 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-12-01 12:45:58,368 [INFO] [MainThread] [root/main.py:71]: Previous instance exited, continuing startup.
+2025-12-01 12:45:59,728 [WARNING] [MainThread] [root/widget_builder.py:40]: No widget config could be found for widget 'weather
+2025-12-01 12:46:00,134 [WARNING] [MainThread] [root/widget_builder.py:40]: No widget config could be found for widget 'language
+2025-12-01 12:46:00,196 [INFO] [MainThread] [root/service.py:39]: AudioInputService starting...
+2025-12-01 12:46:00,366 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2025-12-01 12:46:00,629 [ERROR] [MainThread] [root/weather.py:60]: API key or location is missing. Please provide a valid API key and location.
+2025-12-01 12:46:01,022 [WARNING] [MainThread] [root/widget_builder.py:37]: Ignoring construction of invalid widget 'weather'
+2025-12-01 12:46:01,044 [WARNING] [MainThread] [root/widget_builder.py:37]: Ignoring construction of invalid widget 'language'
+2025-12-01 12:46:01,076 [ERROR] [MainThread] [root/weather.py:60]: API key or location is missing. Please provide a valid API key and location.
+2025-12-01 12:46:01,427 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-12-01 12:46:01,428 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-12-01 12:46:01,429 [ERROR] [MainThread] [root/widget_builder.py:86]: Failed to add undefined widget(s)  - The widget "language" is undefined.
+ - The widget "weather" is undefined.
+2025-12-01 12:46:01,467 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\vcardozo\.config\yasb
+2025-12-01 12:46:01,539 [INFO] [MainThread] [root/update_service.py:404]: Background update checker started
+2025-12-01 12:46:01,540 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-12-01 12:46:01,542 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-12-01 12:46:30,651 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-12-01 12:46:30,765 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-12-01 12:46:30,766 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-12-01 12:46:30,776 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-12-01 12:46:31,262 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-12-01 12:46:31,263 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-12-01 12:46:31,289 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.5
+2025-12-01 12:46:31,290 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2025-12-01 12:46:31,291 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-12-01 12:46:31,291 [INFO] [MainThread] [root/main.py:45]: Waiting for previous YASB instance to exit...
+2025-12-01 12:46:31,293 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-12-01 12:46:31,299 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-12-01 12:46:31,351 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-12-01 12:46:31,542 [INFO] [MainThread] [root/main.py:71]: Previous instance exited, continuing startup.
+2025-12-01 12:46:33,036 [WARNING] [MainThread] [root/widget_builder.py:40]: No widget config could be found for widget 'weather
+2025-12-01 12:46:33,437 [WARNING] [MainThread] [root/widget_builder.py:40]: No widget config could be found for widget 'language
+2025-12-01 12:46:33,520 [INFO] [MainThread] [root/service.py:39]: AudioInputService starting...
+2025-12-01 12:46:33,702 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2025-12-01 12:46:34,446 [WARNING] [MainThread] [root/widget_builder.py:37]: Ignoring construction of invalid widget 'weather'
+2025-12-01 12:46:34,470 [WARNING] [MainThread] [root/widget_builder.py:37]: Ignoring construction of invalid widget 'language'
+2025-12-01 12:46:34,895 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-12-01 12:46:34,897 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-12-01 12:46:34,897 [ERROR] [MainThread] [root/widget_builder.py:86]: Failed to add undefined widget(s)  - The widget "weather" is undefined.
+ - The widget "language" is undefined.
+2025-12-01 12:46:34,938 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\vcardozo\.config\yasb
+2025-12-01 12:46:35,034 [INFO] [MainThread] [root/update_service.py:404]: Background update checker started
+2025-12-01 12:46:35,034 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-12-01 12:46:35,039 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-12-01 12:46:44,418 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-12-01 12:46:44,520 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-12-01 12:46:44,520 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-12-01 12:46:44,534 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-12-01 12:46:45,005 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-12-01 12:46:45,005 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-12-01 12:46:45,013 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-12-01 12:46:45,020 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-12-01 12:46:45,062 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-12-01 12:46:45,091 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.5
+2025-12-01 12:46:45,093 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2025-12-01 12:46:45,093 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-12-01 12:46:45,094 [INFO] [MainThread] [root/main.py:45]: Waiting for previous YASB instance to exit...
+2025-12-01 12:46:45,345 [INFO] [MainThread] [root/main.py:71]: Previous instance exited, continuing startup.
+2025-12-01 12:46:46,785 [ERROR] [MainThread] [root/weather.py:60]: API key or location is missing. Please provide a valid API key and location.
+2025-12-01 12:46:47,255 [INFO] [MainThread] [root/service.py:39]: AudioInputService starting...
+2025-12-01 12:46:47,462 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2025-12-01 12:46:48,191 [ERROR] [MainThread] [root/weather.py:60]: API key or location is missing. Please provide a valid API key and location.
+2025-12-01 12:46:48,576 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-12-01 12:46:48,577 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-12-01 12:46:48,578 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\vcardozo\.config\yasb
+2025-12-01 12:46:48,636 [INFO] [MainThread] [root/update_service.py:404]: Background update checker started
+2025-12-01 12:46:48,636 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-12-01 12:46:48,638 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-12-01 12:49:52,177 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-12-01 12:49:52,289 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-12-01 12:49:52,290 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-12-01 12:49:52,298 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-12-01 12:49:52,786 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-12-01 12:49:52,786 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.5
+2025-12-01 12:49:52,786 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-12-01 12:49:52,788 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2025-12-01 12:49:52,788 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-12-01 12:49:52,788 [INFO] [MainThread] [root/main.py:45]: Waiting for previous YASB instance to exit...
+2025-12-01 12:49:52,888 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-12-01 12:49:52,897 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-12-01 12:49:52,928 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-12-01 12:49:53,039 [INFO] [MainThread] [root/main.py:71]: Previous instance exited, continuing startup.
+2025-12-01 12:49:54,354 [ERROR] [MainThread] [root/weather.py:60]: API key or location is missing. Please provide a valid API key and location.
+2025-12-01 12:49:54,837 [INFO] [MainThread] [root/service.py:39]: AudioInputService starting...
+2025-12-01 12:49:55,031 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2025-12-01 12:49:55,783 [ERROR] [MainThread] [root/weather.py:60]: API key or location is missing. Please provide a valid API key and location.
+2025-12-01 12:49:56,228 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-12-01 12:49:56,229 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-12-01 12:49:56,230 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\vcardozo\.config\yasb
+2025-12-01 12:49:56,289 [INFO] [MainThread] [root/update_service.py:404]: Background update checker started
+2025-12-01 12:49:56,289 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-12-01 12:49:56,291 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-12-01 12:50:08,399 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-12-01 12:50:08,514 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-12-01 12:50:08,514 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-12-01 12:50:08,520 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-12-01 12:50:09,017 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-12-01 12:50:09,018 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-12-01 12:50:09,027 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.5
+2025-12-01 12:50:09,028 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2025-12-01 12:50:09,028 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-12-01 12:50:09,029 [INFO] [MainThread] [root/main.py:45]: Waiting for previous YASB instance to exit...
+2025-12-01 12:50:09,068 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-12-01 12:50:09,074 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-12-01 12:50:09,118 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-12-01 12:50:09,279 [INFO] [MainThread] [root/main.py:71]: Previous instance exited, continuing startup.
+2025-12-01 12:50:11,007 [INFO] [MainThread] [root/service.py:39]: AudioInputService starting...
+2025-12-01 12:50:11,145 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2025-12-01 12:50:12,262 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-12-01 12:50:12,263 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-12-01 12:50:12,264 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\vcardozo\.config\yasb
+2025-12-01 12:50:12,347 [INFO] [MainThread] [root/update_service.py:404]: Background update checker started
+2025-12-01 12:50:12,347 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-12-01 12:50:12,351 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-12-01 12:50:12,505 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-01 12:50:12.505862
+2025-12-01 12:50:29,109 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-12-01 12:50:29,216 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-12-01 12:50:29,217 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-12-01 12:50:29,223 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-12-01 12:50:29,674 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-12-01 12:50:29,675 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-12-01 12:50:29,734 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.5
+2025-12-01 12:50:29,735 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2025-12-01 12:50:29,736 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-12-01 12:50:29,736 [INFO] [MainThread] [root/main.py:45]: Waiting for previous YASB instance to exit...
+2025-12-01 12:50:29,881 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-12-01 12:50:29,884 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-12-01 12:50:29,890 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-12-01 12:50:29,987 [INFO] [MainThread] [root/main.py:71]: Previous instance exited, continuing startup.
+2025-12-01 12:50:32,000 [INFO] [MainThread] [root/service.py:39]: AudioInputService starting...
+2025-12-01 12:50:32,091 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2025-12-01 12:50:33,243 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-12-01 12:50:33,244 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-12-01 12:50:33,245 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\vcardozo\.config\yasb
+2025-12-01 12:50:33,316 [INFO] [MainThread] [root/update_service.py:404]: Background update checker started
+2025-12-01 12:50:33,316 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-12-01 12:50:33,322 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-12-01 12:50:33,457 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-01 12:50:33.457576
+2025-12-01 12:56:56,315 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.5
+2025-12-01 12:56:56,316 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2025-12-01 12:56:56,316 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-12-01 12:56:56,829 [INFO] [MainThread] [root/service.py:39]: AudioInputService starting...
+2025-12-01 12:56:56,862 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2025-12-01 12:56:57,863 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-12-01 12:56:57,864 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-12-01 12:56:57,865 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\vcardozo\.config\yasb
+2025-12-01 12:56:57,939 [INFO] [MainThread] [root/update_service.py:404]: Background update checker started
+2025-12-01 12:56:57,939 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-12-01 12:56:57,941 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-12-01 12:56:58,090 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-01 12:56:58.090388
+2025-12-01 13:06:56,845 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-01 13:06:56.845882
+2025-12-01 13:16:56,844 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-01 13:16:56.844918
+2025-12-01 13:26:56,844 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-01 13:26:56.844709
+2025-12-01 13:36:56,872 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-01 13:36:56.871995
+2025-12-01 13:46:56,839 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-01 13:46:56.838961
+2025-12-01 13:56:56,865 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-01 13:56:56.865156
+2025-12-01 14:06:56,849 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-01 14:06:56.849577
+2025-12-01 14:16:56,874 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-01 14:16:56.874830
+2025-12-01 14:26:56,857 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-01 14:26:56.857584
+2025-12-01 14:36:56,861 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-01 14:36:56.861170
+2025-12-01 14:46:56,860 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-01 14:46:56.859939
+2025-12-01 14:56:56,880 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-01 14:56:56.880698
+2025-12-01 15:06:56,843 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-01 15:06:56.843573
+2025-12-01 15:16:56,877 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-01 15:16:56.877432
+2025-12-01 15:26:56,862 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-01 15:26:56.862874
+2025-12-01 15:36:57,006 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-01 15:36:57.006595
+2025-12-01 15:46:56,932 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-01 15:46:56.932933
+2025-12-01 15:56:56,979 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-01 15:56:56.979828
+2025-12-01 16:06:56,937 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-01 16:06:56.937573
+2025-12-01 16:16:56,910 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-01 16:16:56.910922
+2025-12-01 16:26:56,892 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-01 16:26:56.892373
+2025-12-01 16:36:56,891 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-01 16:36:56.891725
+2025-12-01 16:46:57,062 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-01 16:46:57.062388
+2025-12-01 16:56:56,886 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-01 16:56:56.886329
+2025-12-01 17:06:56,979 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-01 17:06:56.979219
+2025-12-01 17:16:56,925 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-01 17:16:56.925025
+2025-12-01 17:26:57,518 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-01 17:26:57.518122
+2025-12-01 17:36:58,309 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-01 17:36:58.309470
+2025-12-01 17:46:58,058 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-01 17:46:58.058540
+2025-12-01 17:56:58,014 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-01 17:56:58.014303
+2025-12-01 17:59:36,384 [INFO] [MainThread] [root/controller.py:35]: Exiting Application...
+2025-12-01 17:59:36,490 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-12-01 17:59:36,490 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-12-01 17:59:37,048 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-12-01 17:59:37,049 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-12-01 17:59:37,228 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-12-01 17:59:37,238 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-12-01 17:59:37,245 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-12-02 10:15:14,564 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.5
+2025-12-02 10:15:14,568 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2025-12-02 10:15:14,569 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-12-02 10:15:19,467 [INFO] [MainThread] [root/service.py:39]: AudioInputService starting...
+2025-12-02 10:15:19,741 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2025-12-02 10:15:21,943 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-12-02 10:15:21,948 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-12-02 10:15:21,952 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\vcardozo\.config\yasb
+2025-12-02 10:15:22,070 [INFO] [MainThread] [root/update_service.py:404]: Background update checker started
+2025-12-02 10:15:22,071 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-12-02 10:15:22,074 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-12-02 10:15:22,240 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-02 10:15:22.240887
+2025-12-02 10:25:18,592 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-02 10:25:18.592603
+2025-12-02 10:35:18,746 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-02 10:35:18.746367
+2025-12-02 10:45:18,489 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-02 10:45:18.489369
+2025-12-02 10:55:18,417 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-02 10:55:18.417110
+2025-12-02 11:05:18,572 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-02 11:05:18.572261
+2025-12-02 11:15:18,303 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-02 11:15:18.303247
+2025-12-02 11:25:18,254 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-02 11:25:18.254295
+2025-12-02 11:35:18,206 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-02 11:35:18.206729
+2025-12-02 11:45:18,199 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-02 11:45:18.199899
+2025-12-02 11:55:18,283 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-02 11:55:18.283447
+2025-12-02 12:05:00,079 [INFO] [MainThread] [root/bar_manager.py:80]: Screens updated. Re-initialising all bars.
+2025-12-02 12:05:00,080 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of screen update.
+2025-12-02 12:05:00,192 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-12-02 12:05:00,193 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-12-02 12:05:00,193 [INFO] [MainThread] [root/bar.py:154]: Screen geometry changed. Updating position for bar primary-bar on screen \\.\DISPLAY1
+2025-12-02 12:05:00,717 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-12-02 12:05:00,718 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-12-02 12:05:00,769 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-12-02 12:05:00,772 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-12-02 12:05:00,781 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-12-02 12:05:02,176 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.5
+2025-12-02 12:05:02,237 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2025-12-02 12:05:02,270 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-12-02 12:05:09,119 [INFO] [MainThread] [root/service.py:39]: AudioInputService starting...
+2025-12-02 12:05:09,270 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2025-12-02 12:05:11,255 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-12-02 12:05:11,255 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-12-02 12:05:11,258 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\vcardozo\.config\yasb
+2025-12-02 12:05:11,472 [INFO] [MainThread] [root/update_service.py:404]: Background update checker started
+2025-12-02 12:05:11,472 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-12-02 12:05:11,522 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-12-02 12:11:33,321 [ERROR] [MainThread] [root/api.py:86]: Weather response error None: TemporaryNetworkFailureError 7.
+Traceback (most recent call last):
+  File "D:\a\yasb\yasb\src\core\utils\widgets\weather\api.py", line 80, in handle_response
+Exception: Weather response error None: TemporaryNetworkFailureError 7.
+
+2025-12-02 12:11:33,322 [WARNING] [MainThread] [root/weather.py:592]: Error processing weather data: Weather data is empty.. Retrying fetch in 10 seconds.
+2025-12-02 12:11:44,789 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-02 12:11:44.789029
+2025-12-02 12:20:56,341 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-02 12:20:56.341138
+2025-12-02 12:30:56,368 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-02 12:30:56.368300
+2025-12-02 12:40:56,378 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-02 12:40:56.378391
+2025-12-02 12:50:56,404 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-02 12:50:56.404120
+2025-12-02 13:00:56,594 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-02 13:00:56.594853
+2025-12-02 13:05:32,129 [INFO] [MainThread] [root/bar_manager.py:80]: Screens updated. Re-initialising all bars.
+2025-12-02 13:05:32,130 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of screen update.
+2025-12-02 13:05:32,239 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-12-02 13:05:32,240 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-12-02 13:05:34,142 [INFO] [MainThread] [root/bar.py:154]: Screen geometry changed. Updating position for bar primary-bar on screen \\.\DISPLAY1
+2025-12-02 13:05:34,886 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-12-02 13:05:34,887 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-12-02 13:05:34,920 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-12-02 13:05:34,928 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-12-02 13:05:34,952 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-12-02 13:05:35,211 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.5
+2025-12-02 13:05:35,218 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2025-12-02 13:05:35,223 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-12-02 13:05:37,953 [INFO] [MainThread] [root/service.py:39]: AudioInputService starting...
+2025-12-02 13:05:38,073 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2025-12-02 13:05:41,407 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-12-02 13:05:41,409 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-12-02 13:05:41,412 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\vcardozo\.config\yasb
+2025-12-02 13:05:41,668 [INFO] [MainThread] [root/update_service.py:404]: Background update checker started
+2025-12-02 13:05:41,668 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-12-02 13:05:41,672 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-12-02 13:05:42,527 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-02 13:05:42.527833
+2025-12-02 13:15:37,649 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-02 13:15:37.649777
+2025-12-02 13:25:37,556 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-02 13:25:37.556705
+2025-12-02 13:35:37,571 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-02 13:35:37.571524
+2025-12-02 13:45:37,624 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-02 13:45:37.624317
+2025-12-02 13:55:37,621 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-02 13:55:37.621443
+2025-12-02 14:05:37,565 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-02 14:05:37.565358
+2025-12-02 14:15:37,588 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-02 14:15:37.588529
+2025-12-02 14:25:37,596 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-02 14:25:37.596574
+2025-12-02 14:35:37,662 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-02 14:35:37.662281
+2025-12-02 14:45:37,569 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-02 14:45:37.569487
+2025-12-02 14:55:37,602 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-02 14:55:37.602371
+2025-12-02 15:05:37,612 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-02 15:05:37.612559
+2025-12-02 15:15:37,606 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-02 15:15:37.606439
+2025-12-02 15:25:37,580 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-02 15:25:37.580291
+2025-12-02 15:35:37,609 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-02 15:35:37.609026
+2025-12-02 15:45:37,621 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-02 15:45:37.621810
+2025-12-02 15:55:37,601 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-02 15:55:37.601078
+2025-12-02 16:05:37,670 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-02 16:05:37.670802
+2025-12-02 16:15:37,648 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-02 16:15:37.648702
+2025-12-02 16:25:37,633 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-02 16:25:37.633929
+2025-12-02 16:35:37,653 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-02 16:35:37.653017
+2025-12-02 16:45:37,631 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-02 16:45:37.631290
+2025-12-02 16:55:37,725 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-02 16:55:37.725388
+2025-12-02 17:05:37,638 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-02 17:05:37.638183
+2025-12-02 17:15:37,690 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-02 17:15:37.690538
+2025-12-02 17:25:37,618 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-02 17:25:37.618880
+2025-12-02 17:35:37,648 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-02 17:35:37.648755
+2025-12-02 17:45:37,615 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-02 17:45:37.615049
+2025-12-02 17:55:37,622 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-02 17:55:37.622839
+2025-12-02 18:05:37,602 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-02 18:05:37.602727
+2025-12-02 18:15:37,650 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-02 18:15:37.650394
+2025-12-02 18:15:43,085 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-12-02 18:15:43,086 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-12-03 09:39:43,773 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.5
+2025-12-03 09:39:43,781 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2025-12-03 09:39:43,785 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-12-03 09:39:48,725 [INFO] [MainThread] [root/service.py:39]: AudioInputService starting...
+2025-12-03 09:39:49,110 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2025-12-03 09:39:50,966 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-12-03 09:39:50,968 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-12-03 09:39:50,970 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\vcardozo\.config\yasb
+2025-12-03 09:39:51,308 [INFO] [MainThread] [root/update_service.py:404]: Background update checker started
+2025-12-03 09:39:51,308 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-12-03 09:39:51,310 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-12-03 09:39:52,045 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-03 09:39:52.045604
+2025-12-03 09:49:47,853 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-03 09:49:47.853123
+2025-12-03 09:59:47,804 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-03 09:59:47.804471
+2025-12-03 10:09:47,762 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-03 10:09:47.762669
+2025-12-03 10:19:47,678 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-03 10:19:47.678420
+2025-12-03 10:29:47,616 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-03 10:29:47.616588
+2025-12-03 10:39:47,624 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-03 10:39:47.624879
+2025-12-03 10:49:47,595 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-03 10:49:47.595447
+2025-12-03 10:59:47,561 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-03 10:59:47.561547
+2025-12-03 11:09:47,530 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-03 11:09:47.529978
+2025-12-03 11:19:47,497 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-03 11:19:47.497737
+2025-12-03 11:29:47,482 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-03 11:29:47.482750
+2025-12-03 11:39:47,452 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-03 11:39:47.452232
+2025-12-03 11:43:30,566 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-12-03 11:43:30,567 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-12-03 11:48:16,398 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.5
+2025-12-03 11:48:16,399 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2025-12-03 11:48:16,400 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-12-03 11:48:18,385 [INFO] [MainThread] [root/service.py:39]: AudioInputService starting...
+2025-12-03 11:48:18,585 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2025-12-03 11:48:19,714 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-12-03 11:48:19,739 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-12-03 11:48:19,787 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\vcardozo\.config\yasb
+2025-12-03 11:48:19,884 [INFO] [MainThread] [root/update_service.py:404]: Background update checker started
+2025-12-03 11:48:19,884 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-12-03 11:48:19,886 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-12-03 11:48:20,225 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-03 11:48:20.225716
+2025-12-03 11:58:18,001 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-03 11:58:18.001645
+2025-12-03 11:59:38,694 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-12-03 11:59:38,695 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-12-03 12:04:04,837 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.5
+2025-12-03 12:04:04,855 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2025-12-03 12:04:04,856 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-12-03 12:04:08,763 [INFO] [MainThread] [root/service.py:39]: AudioInputService starting...
+2025-12-03 12:04:09,001 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2025-12-03 12:04:10,207 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-12-03 12:04:10,208 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-12-03 12:04:10,208 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\vcardozo\.config\yasb
+2025-12-03 12:04:10,281 [INFO] [MainThread] [root/update_service.py:404]: Background update checker started
+2025-12-03 12:04:10,282 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-12-03 12:04:10,284 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-12-03 12:04:10,423 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-03 12:04:10.423483
+2025-12-03 12:14:07,866 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-03 12:14:07.866879
+2025-12-03 12:24:07,877 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-03 12:24:07.877931
+2025-12-03 12:34:07,857 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-03 12:34:07.857382
+2025-12-03 12:36:11,658 [INFO] [MainThread] [root/bar_manager.py:80]: Screens updated. Re-initialising all bars.
+2025-12-03 12:36:11,659 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of screen update.
+2025-12-03 12:36:11,774 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-12-03 12:36:11,775 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-12-03 12:36:11,776 [INFO] [MainThread] [root/bar.py:154]: Screen geometry changed. Updating position for bar primary-bar on screen \\.\DISPLAY1
+2025-12-03 12:36:11,922 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-12-03 12:36:11,923 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-12-03 12:36:11,941 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-12-03 12:36:11,945 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-12-03 12:36:11,947 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-12-03 12:36:12,819 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.5
+2025-12-03 12:36:12,821 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2025-12-03 12:36:12,822 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-12-03 12:36:40,965 [INFO] [MainThread] [root/service.py:39]: AudioInputService starting...
+2025-12-03 12:36:41,361 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2025-12-03 12:36:42,558 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-12-03 12:36:42,558 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-12-03 12:36:42,559 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\vcardozo\.config\yasb
+2025-12-03 12:36:42,646 [INFO] [MainThread] [root/update_service.py:404]: Background update checker started
+2025-12-03 12:36:42,647 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-12-03 12:36:42,648 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-12-03 12:36:43,867 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-03 12:36:43.867484
+2025-12-03 12:37:13,865 [INFO] [MainThread] [root/bar_manager.py:80]: Screens updated. Re-initialising all bars.
+2025-12-03 12:37:13,867 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of screen update.
+2025-12-03 12:37:13,975 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-12-03 12:37:13,975 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-12-03 12:37:14,042 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-12-03 12:37:14,043 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-12-03 12:37:14,067 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-12-03 12:37:14,068 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-12-03 12:37:14,070 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-12-03 12:37:14,859 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.5
+2025-12-03 12:37:14,861 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2025-12-03 12:37:14,862 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-12-03 12:37:17,244 [INFO] [MainThread] [root/service.py:39]: AudioInputService starting...
+2025-12-03 12:37:17,476 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2025-12-03 12:37:18,817 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-12-03 12:37:18,817 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-12-03 12:37:18,818 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\vcardozo\.config\yasb
+2025-12-03 12:37:18,916 [INFO] [MainThread] [root/update_service.py:404]: Background update checker started
+2025-12-03 12:37:18,916 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-12-03 12:37:18,920 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-12-03 12:37:20,138 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-03 12:37:20.138092
+2025-12-03 12:47:16,802 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-03 12:47:16.802212
+2025-12-03 12:57:16,802 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-03 12:57:16.802760
+2025-12-03 12:57:33,086 [INFO] [MainThread] [root/bar_manager.py:80]: Screens updated. Re-initialising all bars.
+2025-12-03 12:57:33,086 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of screen update.
+2025-12-03 12:57:33,195 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-12-03 12:57:33,196 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-12-03 12:57:33,339 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-12-03 12:57:33,339 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-12-03 12:57:33,361 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-12-03 12:57:33,372 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-12-03 12:57:33,376 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-12-03 12:57:34,296 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.5
+2025-12-03 12:57:34,299 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2025-12-03 12:57:34,301 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-12-03 12:57:37,101 [INFO] [MainThread] [root/service.py:39]: AudioInputService starting...
+2025-12-03 12:57:37,320 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2025-12-03 12:57:38,019 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-12-03 12:57:38,020 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-12-03 12:57:38,021 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\vcardozo\.config\yasb
+2025-12-03 12:57:38,091 [INFO] [MainThread] [root/update_service.py:404]: Background update checker started
+2025-12-03 12:57:38,091 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-12-03 12:57:38,094 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-12-03 12:57:39,216 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-03 12:57:39.216670
+2025-12-03 12:59:16,334 [INFO] [MainThread] [root/bar_manager.py:80]: Screens updated. Re-initialising all bars.
+2025-12-03 12:59:16,335 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of screen update.
+2025-12-03 12:59:16,440 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-12-03 12:59:16,440 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-12-03 12:59:16,510 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-12-03 12:59:16,510 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-12-03 12:59:16,535 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-12-03 12:59:16,548 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-12-03 12:59:16,553 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-12-03 12:59:17,192 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.5
+2025-12-03 12:59:17,195 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2025-12-03 12:59:17,197 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-12-03 12:59:19,516 [INFO] [MainThread] [root/service.py:39]: AudioInputService starting...
+2025-12-03 12:59:19,741 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2025-12-03 12:59:20,940 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-12-03 12:59:20,940 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-12-03 12:59:20,941 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\vcardozo\.config\yasb
+2025-12-03 12:59:21,010 [INFO] [MainThread] [root/update_service.py:404]: Background update checker started
+2025-12-03 12:59:21,010 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-12-03 12:59:21,017 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-12-03 12:59:22,240 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-03 12:59:22.240858
+2025-12-03 13:00:29,581 [DEBUG] [MainThread] [wifi_widget/wifi_managers.py:262]: Scanning for WiFi networks...
+2025-12-03 13:01:54,074 [INFO] [MainThread] [root/bar_manager.py:80]: Screens updated. Re-initialising all bars.
+2025-12-03 13:01:54,075 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of screen update.
+2025-12-03 13:01:54,181 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-12-03 13:01:54,181 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-12-03 13:01:54,193 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-12-03 13:01:54,193 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-12-03 14:06:13,566 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.5
+2025-12-03 14:06:13,569 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2025-12-03 14:06:13,570 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-12-03 14:06:17,215 [INFO] [MainThread] [root/service.py:39]: AudioInputService starting...
+2025-12-03 14:06:17,456 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2025-12-03 14:06:18,591 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-12-03 14:06:18,592 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-12-03 14:06:18,595 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\vcardozo\.config\yasb
+2025-12-03 14:06:18,680 [INFO] [MainThread] [root/update_service.py:404]: Background update checker started
+2025-12-03 14:06:18,680 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-12-03 14:06:18,682 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-12-03 14:06:18,901 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-03 14:06:18.901245
+2025-12-03 14:06:53,843 [DEBUG] [MainThread] [wifi_widget/wifi_managers.py:262]: Scanning for WiFi networks...
+2025-12-03 14:16:16,330 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-03 14:16:16.330128
+2025-12-03 14:26:16,321 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-03 14:26:16.321161
+2025-12-03 14:36:16,326 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-03 14:36:16.326371
+2025-12-03 14:46:16,366 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-03 14:46:16.365949
+2025-12-03 14:56:16,324 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-03 14:56:16.324306
+2025-12-03 15:06:16,352 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-03 15:06:16.352216
+2025-12-03 15:16:16,377 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-03 15:16:16.377097
+2025-12-03 15:26:16,398 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-03 15:26:16.398950
+2025-12-03 15:36:16,405 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-03 15:36:16.405366
+2025-12-03 15:46:16,366 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-03 15:46:16.366208
+2025-12-03 15:56:16,364 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-03 15:56:16.364585
+2025-12-03 16:06:16,378 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-03 16:06:16.378225
+2025-12-03 16:16:17,628 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-03 16:16:17.628271
+2025-12-03 16:26:16,359 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-03 16:26:16.359835
+2025-12-03 16:36:16,400 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-03 16:36:16.400937
+2025-12-03 16:46:16,354 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-03 16:46:16.354755
+2025-12-03 16:56:16,383 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-03 16:56:16.383272
+2025-12-03 17:06:16,397 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-03 17:06:16.397616
+2025-12-03 17:16:16,405 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-03 17:16:16.405511
+2025-12-03 17:26:16,421 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-03 17:26:16.421085
+2025-12-03 17:36:16,789 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-03 17:36:16.789670
+2025-12-03 17:46:16,406 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-03 17:46:16.406344
+2025-12-03 17:56:16,431 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-03 17:56:16.431912
+2025-12-03 17:59:57,642 [INFO] [MainThread] [root/controller.py:35]: Exiting Application...
+2025-12-03 17:59:57,752 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-12-03 17:59:57,753 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-12-03 17:59:58,137 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-12-03 17:59:58,138 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-12-03 17:59:58,169 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-12-03 17:59:58,182 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-12-03 17:59:58,187 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-12-04 10:22:48,656 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.5
+2025-12-04 10:22:48,660 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2025-12-04 10:22:48,661 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-12-04 10:22:52,322 [INFO] [MainThread] [root/service.py:39]: AudioInputService starting...
+2025-12-04 10:22:52,607 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2025-12-04 10:22:53,883 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-12-04 10:22:53,886 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-12-04 10:22:53,887 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\vcardozo\.config\yasb
+2025-12-04 10:22:53,997 [INFO] [MainThread] [root/update_service.py:404]: Background update checker started
+2025-12-04 10:22:53,997 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-12-04 10:22:54,001 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-12-04 10:22:54,228 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-04 10:22:54.228540
+2025-12-04 10:27:02,219 [DEBUG] [MainThread] [wifi_widget/wifi_managers.py:262]: Scanning for WiFi networks...
+2025-12-04 10:32:51,604 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-04 10:32:51.604377
+2025-12-04 10:42:51,634 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-04 10:42:51.634845
+2025-12-04 10:52:51,753 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-04 10:52:51.753595
+2025-12-04 11:02:51,850 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-04 11:02:51.850478
+2025-12-04 11:12:51,955 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-04 11:12:51.955700
+2025-12-04 11:22:52,018 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-04 11:22:52.018042
+2025-12-04 11:32:52,080 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-04 11:32:52.080727
+2025-12-04 11:42:52,123 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-04 11:42:52.123762
+2025-12-04 11:52:52,169 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-04 11:52:52.169505
+2025-12-04 12:02:52,213 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-04 12:02:52.213775
+2025-12-04 12:12:52,205 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-04 12:12:52.205075
+2025-12-04 12:22:52,241 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-04 12:22:52.241754
+2025-12-04 12:32:52,279 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-04 12:32:52.279810
+2025-12-04 12:42:52,258 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-04 12:42:52.258251
+2025-12-04 12:52:52,283 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-04 12:52:52.283426
+2025-12-04 13:02:52,301 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-04 13:02:52.301181
+2025-12-04 13:24:40,318 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-04 13:24:40.318832
+2025-12-04 13:34:39,312 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-04 13:34:39.312447
+2025-12-04 13:44:39,346 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-04 13:44:39.346630
+2025-12-04 13:54:39,344 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-04 13:54:39.343928
+2025-12-04 14:04:39,342 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-04 14:04:39.342773
+2025-12-04 14:14:39,341 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-04 14:14:39.341065
+2025-12-04 15:29:38,896 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-04 15:29:38.896003
+2025-12-04 15:39:37,884 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-04 15:39:37.884843
+2025-12-04 16:03:46,878 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-04 16:03:46.878733
+2025-12-04 16:13:46,894 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-04 16:13:46.894223
+2025-12-04 16:23:46,907 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-04 16:23:46.907847
+2025-12-04 16:33:47,713 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-04 16:33:47.713413
+2025-12-04 16:43:47,022 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-04 16:43:47.022572
+2025-12-04 16:53:46,896 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-04 16:53:46.896303
+2025-12-04 17:03:46,936 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-04 17:03:46.936506
+2025-12-04 17:17:40,588 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-04 17:17:40.588243
+2025-12-04 18:11:53,115 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-04 18:11:53.115858
+2025-12-04 18:11:59,007 [INFO] [MainThread] [root/bar_manager.py:80]: Screens updated. Re-initialising all bars.
+2025-12-04 18:11:59,008 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of screen update.
+2025-12-04 18:11:59,119 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-12-04 18:11:59,119 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-12-04 18:11:59,440 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-12-04 18:11:59,441 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-12-04 18:11:59,503 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-12-04 18:11:59,510 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-12-04 18:11:59,516 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-12-04 18:12:01,180 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.5
+2025-12-04 18:12:01,183 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2025-12-04 18:12:01,184 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-12-04 18:12:05,311 [INFO] [MainThread] [root/service.py:39]: AudioInputService starting...
+2025-12-04 18:12:05,552 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2025-12-04 18:12:06,664 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-12-04 18:12:06,665 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-12-04 18:12:06,666 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\vcardozo\.config\yasb
+2025-12-04 18:12:06,763 [INFO] [MainThread] [root/update_service.py:404]: Background update checker started
+2025-12-04 18:12:06,763 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-12-04 18:12:06,765 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-12-04 18:12:07,017 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-04 18:12:07.017796
+2025-12-05 09:42:35,380 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-05 09:42:35.380685
+2025-12-05 09:53:02,554 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-05 09:53:02.554780
+2025-12-05 10:03:02,591 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-05 10:03:02.591704
+2025-12-05 10:04:46,359 [INFO] [MainThread] [root/bar_manager.py:80]: Screens updated. Re-initialising all bars.
+2025-12-05 10:04:46,359 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of screen update.
+2025-12-05 10:04:46,481 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-12-05 10:04:46,482 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-12-05 10:04:46,726 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-12-05 10:04:46,726 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-12-05 10:04:46,779 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-12-05 10:04:46,791 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-12-05 10:04:46,801 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-12-05 10:04:47,765 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.5
+2025-12-05 10:04:47,767 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2025-12-05 10:04:47,767 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-12-05 10:04:50,580 [INFO] [MainThread] [root/service.py:39]: AudioInputService starting...
+2025-12-05 10:04:50,682 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2025-12-05 10:04:52,124 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-12-05 10:04:52,125 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-12-05 10:04:52,126 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\vcardozo\.config\yasb
+2025-12-05 10:04:52,212 [INFO] [MainThread] [root/update_service.py:404]: Background update checker started
+2025-12-05 10:04:52,212 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-12-05 10:04:52,215 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-12-05 10:04:52,396 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-05 10:04:52.396333
+2025-12-05 10:14:50,171 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-05 10:14:50.171217
+2025-12-05 10:24:50,178 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-05 10:24:50.178631
+2025-12-05 10:34:50,177 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-05 10:34:50.177408
+2025-12-05 10:44:50,179 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-05 10:44:50.179903
+2025-12-05 10:54:50,181 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-05 10:54:50.181682
+2025-12-05 11:04:50,193 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-05 11:04:50.193097
+2025-12-05 11:14:50,189 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-05 11:14:50.189587
+2025-12-05 11:24:50,218 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-05 11:24:50.218566
+2025-12-05 11:34:50,213 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-05 11:34:50.213111
+2025-12-05 11:44:50,215 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-05 11:44:50.215042
+2025-12-05 11:54:50,224 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-05 11:54:50.224823
+2025-12-05 12:04:50,227 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-05 12:04:50.227363
+2025-12-05 12:14:50,230 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-05 12:14:50.230912
+2025-12-05 12:24:50,212 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-05 12:24:50.212347
+2025-12-05 12:34:50,206 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-05 12:34:50.206715
+2025-12-05 12:44:50,280 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-05 12:44:50.280768
+2025-12-05 12:54:50,432 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-05 12:54:50.432401
+2025-12-05 13:04:50,544 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-05 13:04:50.544834
+2025-12-05 13:14:50,666 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-05 13:14:50.666280
+2025-12-05 13:24:50,735 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-05 13:24:50.735735
+2025-12-05 13:34:50,849 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-05 13:34:50.849558
+2025-12-05 13:44:50,923 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-05 13:44:50.923156
+2025-12-05 13:54:50,994 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-05 13:54:50.994253
+2025-12-05 14:04:50,989 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-05 14:04:50.989060
+2025-12-05 14:14:51,043 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-05 14:14:51.043210
+2025-12-05 14:24:51,083 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-05 14:24:51.083275
+2025-12-05 15:06:34,320 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-05 15:06:34.320376
+2025-12-05 15:16:34,307 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-05 15:16:34.307852
+2025-12-05 15:54:29,324 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-05 15:54:29.324013
+2025-12-05 16:04:29,368 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-05 16:04:29.368004
+2025-12-05 16:14:29,363 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-05 16:14:29.363716
+2025-12-05 16:24:29,352 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-05 16:24:29.352104
+2025-12-05 16:34:29,352 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-05 16:34:29.352882
+2025-12-05 16:51:50,453 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-05 16:51:50.453615
+2025-12-05 17:01:50,511 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-05 17:01:50.510957
+2025-12-05 17:11:50,466 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-05 17:11:50.466017
+2025-12-05 17:21:50,467 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-05 17:21:50.467018
+2025-12-05 17:31:50,498 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-05 17:31:50.497948
+2025-12-05 17:41:50,944 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-05 17:41:50.944716
+2025-12-05 17:51:50,508 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-05 17:51:50.508561
+2025-12-05 18:01:50,490 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-05 18:01:50.490269
+2025-12-05 18:11:50,591 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-05 18:11:50.591638
+2025-12-05 18:21:50,500 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-05 18:21:50.500357
+2025-12-05 20:14:01,575 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-12-05 20:14:01,577 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-12-09 10:01:05,545 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.5
+2025-12-09 10:01:05,546 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2025-12-09 10:01:05,547 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-12-09 10:01:09,343 [INFO] [MainThread] [root/service.py:39]: AudioInputService starting...
+2025-12-09 10:01:09,551 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2025-12-09 10:01:10,770 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-12-09 10:01:10,771 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-12-09 10:01:10,771 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\vcardozo\.config\yasb
+2025-12-09 10:01:10,862 [INFO] [MainThread] [root/update_service.py:404]: Background update checker started
+2025-12-09 10:01:10,863 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-12-09 10:01:10,865 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-12-09 10:01:11,266 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-09 10:01:11.265979
+2025-12-09 10:11:08,627 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-09 10:11:08.627778
+2025-12-09 10:12:07,935 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-12-09 10:12:08,045 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-12-09 10:12:08,045 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-12-09 10:12:08,051 [INFO] [MainThread] [root/bar_manager.py:76]: Successfully loaded updated config and re-initialised all bars.
+2025-12-09 10:12:08,470 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-12-09 10:12:08,471 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-12-09 10:12:08,662 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-12-09 10:12:08,668 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-12-09 10:12:08,697 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-12-09 10:12:09,738 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.5
+2025-12-09 10:12:09,742 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2025-12-09 10:12:09,744 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-12-09 10:12:12,817 [INFO] [MainThread] [root/service.py:39]: AudioInputService starting...
+2025-12-09 10:12:12,993 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2025-12-09 10:12:14,606 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-12-09 10:12:14,607 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-12-09 10:12:14,609 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\vcardozo\.config\yasb
+2025-12-09 10:12:14,736 [INFO] [MainThread] [root/update_service.py:404]: Background update checker started
+2025-12-09 10:12:14,737 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-12-09 10:12:14,741 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-12-09 10:12:14,997 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-09 10:12:14.997280
+2025-12-09 10:22:12,013 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-09 10:22:12.013681
+2025-12-09 10:32:12,264 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-09 10:32:12.264356
+2025-12-09 10:42:11,865 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-09 10:42:11.865275
+2025-12-09 10:52:11,778 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-09 10:52:11.778621
+2025-12-09 11:02:11,758 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-09 11:02:11.758229
+2025-12-09 11:12:11,970 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-09 11:12:11.970424
+2025-12-09 11:22:11,679 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-09 11:22:11.679318
+2025-12-09 11:32:11,658 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-09 11:32:11.658523
+2025-12-09 11:42:11,673 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-09 11:42:11.673683
+2025-12-09 11:52:11,658 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-09 11:52:11.658753
+2025-12-09 12:02:00,326 [INFO] [MainThread] [root/bar_manager.py:80]: Screens updated. Re-initialising all bars.
+2025-12-09 12:02:00,327 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of screen update.
+2025-12-09 12:02:00,437 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-12-09 12:02:00,437 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-12-09 12:02:00,439 [INFO] [MainThread] [root/bar.py:154]: Screen geometry changed. Updating position for bar primary-bar on screen \\.\DISPLAY1
+2025-12-09 12:02:00,947 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-12-09 12:02:00,948 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-12-09 12:02:00,979 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-12-09 12:02:00,982 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-12-09 12:02:00,989 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-12-09 12:02:01,908 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.5
+2025-12-09 12:02:01,910 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2025-12-09 12:02:01,910 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-12-09 12:02:07,236 [INFO] [MainThread] [root/service.py:39]: AudioInputService starting...
+2025-12-09 12:02:07,471 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2025-12-09 12:02:09,032 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-12-09 12:02:09,033 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-12-09 12:02:09,035 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\vcardozo\.config\yasb
+2025-12-09 12:02:09,209 [INFO] [MainThread] [root/update_service.py:404]: Background update checker started
+2025-12-09 12:02:09,209 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-12-09 12:02:09,212 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-12-09 12:02:10,452 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-09 12:02:10.452485
+2025-12-09 12:13:12,983 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-09 12:13:12.983321
+2025-12-09 12:23:12,976 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-09 12:23:12.976316
+2025-12-09 12:33:12,968 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-09 12:33:12.968130
+2025-12-09 12:43:12,957 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-09 12:43:12.957780
+2025-12-09 12:53:12,994 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-09 12:53:12.994266
+2025-12-09 13:03:13,130 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-09 13:03:13.130670
+2025-12-09 13:13:13,147 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-09 13:13:13.147558
+2025-12-09 13:18:48,278 [INFO] [MainThread] [root/bar_manager.py:80]: Screens updated. Re-initialising all bars.
+2025-12-09 13:18:48,279 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of screen update.
+2025-12-09 13:18:48,387 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-12-09 13:18:48,387 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-12-09 13:18:48,546 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-12-09 13:18:48,548 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-12-09 13:18:48,571 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-12-09 13:18:48,576 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-12-09 13:18:48,581 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-12-09 13:18:48,991 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.5
+2025-12-09 13:18:48,992 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2025-12-09 13:18:48,993 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-12-09 13:18:50,285 [INFO] [MainThread] [root/service.py:39]: AudioInputService starting...
+2025-12-09 13:18:50,382 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2025-12-09 13:18:52,035 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-12-09 13:18:52,036 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-12-09 13:18:52,037 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\vcardozo\.config\yasb
+2025-12-09 13:18:52,170 [INFO] [MainThread] [root/update_service.py:404]: Background update checker started
+2025-12-09 13:18:52,170 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-12-09 13:18:52,173 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-12-09 13:18:52,426 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-09 13:18:52.426262
+2025-12-09 13:20:44,195 [INFO] [MainThread] [root/controller.py:35]: Exiting Application from context menu...
+2025-12-09 13:20:44,299 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-12-09 13:20:44,299 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-12-09 13:20:45,326 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-12-09 13:20:45,326 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-12-09 13:20:45,427 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-12-09 13:20:45,439 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-12-09 13:20:45,447 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-12-09 13:25:58,602 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2025-12-09 13:25:58,602 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2025-12-09 13:25:58,602 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-12-09 13:25:59,496 [INFO] [MainThread] [root/service.py:39]: AudioInputService starting...
+2025-12-09 13:25:59,531 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2025-12-09 13:26:00,774 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-12-09 13:26:00,774 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-12-09 13:26:00,776 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\vcardozo\.config\yasb
+2025-12-09 13:26:00,921 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2025-12-09 13:26:00,921 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-12-09 13:26:00,926 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-12-09 13:26:01,133 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-09 13:26:01.133683
+2025-12-09 13:35:59,411 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-09 13:35:59.411440
+2025-12-09 13:45:59,453 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-09 13:45:59.453701
+2025-12-09 13:55:59,397 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-09 13:55:59.397125
+2025-12-09 14:05:59,432 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-09 14:05:59.432800
+2025-12-09 14:15:59,394 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-09 14:15:59.393956
+2025-12-09 14:25:59,404 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-09 14:25:59.404394
+2025-12-09 14:35:59,411 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-09 14:35:59.410948
+2025-12-09 14:45:59,406 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-09 14:45:59.406653
+2025-12-09 14:55:59,408 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-09 14:55:59.408270
+2025-12-09 15:05:59,424 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-09 15:05:59.424094
+2025-12-09 15:15:59,412 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-09 15:15:59.412745
+2025-12-09 15:25:59,396 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-09 15:25:59.395999
+2025-12-09 15:35:59,432 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-09 15:35:59.432744
+2025-12-09 15:45:59,411 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-09 15:45:59.411220
+2025-12-09 15:55:59,407 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-09 15:55:59.407882
+2025-12-09 16:05:59,430 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-09 16:05:59.430420
+2025-12-09 16:15:59,430 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-09 16:15:59.430308
+2025-12-09 16:25:59,410 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-09 16:25:59.410383
+2025-12-09 16:35:59,408 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-09 16:35:59.408125
+2025-12-09 16:45:59,478 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-09 16:45:59.478292
+2025-12-09 16:55:59,442 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-09 16:55:59.441725
+2025-12-09 17:05:59,428 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-09 17:05:59.428531
+2025-12-09 17:15:59,408 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-09 17:15:59.408321
+2025-12-09 17:25:59,418 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-09 17:25:59.418339
+2025-12-09 17:35:59,433 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-09 17:35:59.433656
+2025-12-09 17:39:22,322 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-12-09 17:39:22,324 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-12-10 10:22:39,442 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2025-12-10 10:22:39,444 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2025-12-10 10:22:39,445 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-12-10 10:22:42,634 [INFO] [MainThread] [root/service.py:39]: AudioInputService starting...
+2025-12-10 10:22:42,798 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2025-12-10 10:22:43,992 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-12-10 10:22:43,994 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-12-10 10:22:43,994 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\vcardozo\.config\yasb
+2025-12-10 10:22:44,087 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2025-12-10 10:22:44,087 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-12-10 10:22:44,089 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-12-10 10:22:45,052 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-10 10:22:45.052219
+2025-12-10 10:23:39,047 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2025-12-10 10:23:39,049 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2025-12-10 10:23:39,050 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-12-10 10:23:39,051 [ERROR] [MainThread] [root/main.py:74]: Another instance of the YASB is already running.
+2025-12-10 10:32:42,074 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-10 10:32:42.074267
+2025-12-10 10:42:42,104 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-10 10:42:42.104677
+2025-12-10 10:52:42,042 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-10 10:52:42.042265
+2025-12-10 11:00:05,660 [INFO] [MainThread] [root/bar_manager.py:80]: Screens updated. Re-initialising all bars.
+2025-12-10 11:00:05,660 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of screen update.
+2025-12-10 11:00:05,772 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-12-10 11:00:05,772 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-12-10 11:00:05,773 [INFO] [MainThread] [root/bar.py:154]: Screen geometry changed. Updating position for bar primary-bar on screen \\.\DISPLAY1
+2025-12-10 11:00:05,970 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-12-10 11:00:05,971 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-12-10 11:00:06,023 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-12-10 11:00:06,036 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-12-10 11:00:06,051 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-12-10 11:02:12,792 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2025-12-10 11:02:12,795 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2025-12-10 11:02:12,796 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-12-10 11:02:17,127 [INFO] [MainThread] [root/service.py:39]: AudioInputService starting...
+2025-12-10 11:02:17,372 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2025-12-10 11:02:18,549 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-12-10 11:02:18,551 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-12-10 11:02:18,552 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\vcardozo\.config\yasb
+2025-12-10 11:02:18,675 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2025-12-10 11:02:18,676 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-12-10 11:02:18,678 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-12-10 11:02:18,947 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-10 11:02:18.946993
+2025-12-10 11:12:16,467 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-10 11:12:16.467620
+2025-12-10 11:22:16,583 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-10 11:22:16.582904
+2025-12-10 11:32:16,451 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-10 11:32:16.451207
+2025-12-10 11:42:16,480 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-10 11:42:16.480217
+2025-12-10 11:52:16,497 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-10 11:52:16.497237
+2025-12-10 12:02:16,558 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-10 12:02:16.558403
+2025-12-10 12:12:16,558 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-10 12:12:16.558728
+2025-12-10 12:18:25,643 [INFO] [MainThread] [root/bar_manager.py:80]: Screens updated. Re-initialising all bars.
+2025-12-10 12:18:25,643 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of screen update.
+2025-12-10 12:18:25,754 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-12-10 12:18:25,755 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-12-10 12:18:25,871 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-12-10 12:18:25,872 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-12-10 12:18:26,435 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-12-10 12:18:26,442 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-12-10 12:18:26,474 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-12-10 12:18:28,834 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2025-12-10 12:18:28,838 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2025-12-10 12:18:28,841 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-12-10 12:18:32,247 [INFO] [MainThread] [root/service.py:39]: AudioInputService starting...
+2025-12-10 12:18:32,903 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2025-12-10 12:18:34,421 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-12-10 12:18:34,424 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-12-10 12:18:34,425 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\vcardozo\.config\yasb
+2025-12-10 12:18:34,541 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2025-12-10 12:18:34,541 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-12-10 12:18:34,549 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-12-10 12:18:36,546 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-10 12:18:36.546291
+2025-12-10 12:28:31,982 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-10 12:28:31.982309
+2025-12-10 12:38:31,910 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-10 12:38:31.910902
+2025-12-10 12:48:31,895 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-10 12:48:31.895858
+2025-12-10 12:58:31,912 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-10 12:58:31.912798
+2025-12-10 13:08:31,916 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-10 13:08:31.916375
+2025-12-10 14:35:29,109 [INFO] [MainThread] [root/bar_manager.py:80]: Screens updated. Re-initialising all bars.
+2025-12-10 14:35:29,110 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of screen update.
+2025-12-10 14:35:29,223 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-12-10 14:35:29,224 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-12-10 14:35:29,224 [INFO] [MainThread] [root/bar.py:154]: Screen geometry changed. Updating position for bar primary-bar on screen \\.\DISPLAY1
+2025-12-10 14:35:29,767 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-12-10 14:35:29,769 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-12-10 14:35:30,032 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-12-10 14:35:30,036 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-12-10 14:35:30,051 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-12-10 14:35:32,600 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2025-12-10 14:35:32,602 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2025-12-10 14:35:32,606 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-12-10 14:35:34,703 [INFO] [MainThread] [root/service.py:39]: AudioInputService starting...
+2025-12-10 14:35:34,864 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2025-12-10 14:35:36,339 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-12-10 14:35:36,339 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-12-10 14:35:36,341 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\vcardozo\.config\yasb
+2025-12-10 14:35:36,458 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2025-12-10 14:35:36,458 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-12-10 14:35:36,466 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-12-10 14:35:36,821 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-10 14:35:36.821255
+2025-12-10 14:54:30,184 [INFO] [MainThread] [root/bar_manager.py:80]: Screens updated. Re-initialising all bars.
+2025-12-10 14:54:30,185 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of screen update.
+2025-12-10 14:54:30,286 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-12-10 14:54:30,287 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-12-10 14:54:30,291 [INFO] [MainThread] [root/bar.py:154]: Screen geometry changed. Updating position for bar primary-bar on screen \\.\DISPLAY1
+2025-12-10 14:54:30,541 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-12-10 14:54:30,541 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-12-10 14:54:30,586 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-12-10 14:54:30,587 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-12-10 14:54:30,592 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-12-10 14:54:31,508 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2025-12-10 14:54:31,509 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2025-12-10 14:54:31,510 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-12-10 14:54:33,378 [INFO] [MainThread] [root/service.py:39]: AudioInputService starting...
+2025-12-10 14:54:33,468 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2025-12-10 14:54:33,590 [INFO] [MainThread] [root/bar_manager.py:80]: Screens updated. Re-initialising all bars.
+2025-12-10 14:54:33,590 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of screen update.
+2025-12-10 14:54:33,691 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-12-10 14:54:33,691 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-12-10 15:06:01,263 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2025-12-10 15:06:01,266 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2025-12-10 15:06:01,269 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-12-10 15:06:10,435 [INFO] [MainThread] [root/service.py:39]: AudioInputService starting...
+2025-12-10 15:06:10,796 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2025-12-10 15:06:12,491 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-12-10 15:06:12,492 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-12-10 15:06:12,495 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\vcardozo\.config\yasb
+2025-12-10 15:06:12,646 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2025-12-10 15:06:12,647 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-12-10 15:06:12,651 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-12-10 15:06:13,187 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-10 15:06:13.187469
+2025-12-10 15:16:09,276 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-10 15:16:09.276124
+2025-12-10 15:26:09,264 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-10 15:26:09.263929
+2025-12-10 15:36:09,281 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-10 15:36:09.281504
+2025-12-10 15:46:09,335 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-10 15:46:09.335293
+2025-12-10 15:55:29,462 [INFO] [MainThread] [root/bar_manager.py:80]: Screens updated. Re-initialising all bars.
+2025-12-10 15:55:29,462 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of screen update.
+2025-12-10 15:55:29,566 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-12-10 15:55:29,566 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-12-10 15:55:29,660 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-12-10 15:55:29,661 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-12-10 15:55:29,676 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-12-10 15:55:29,689 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-12-10 15:55:29,697 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-12-10 15:55:32,199 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2025-12-10 15:55:32,201 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2025-12-10 15:55:32,202 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-12-10 15:55:35,507 [INFO] [MainThread] [root/service.py:39]: AudioInputService starting...
+2025-12-10 15:55:35,714 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2025-12-10 15:55:37,037 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-12-10 15:55:37,038 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-12-10 15:55:37,038 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\vcardozo\.config\yasb
+2025-12-10 15:55:37,114 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2025-12-10 15:55:37,114 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-12-10 15:55:37,117 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-12-10 15:55:37,295 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-10 15:55:37.295637
+2025-12-10 16:05:34,886 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-10 16:05:34.886255
+2025-12-10 16:15:34,898 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-10 16:15:34.898704
+2025-12-10 16:25:34,919 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-10 16:25:34.919588
+2025-12-10 16:35:34,920 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-10 16:35:34.920144
+2025-12-10 16:45:34,957 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-10 16:45:34.957599
+2025-12-10 16:55:34,981 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-10 16:55:34.981911
+2025-12-10 17:05:34,932 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-10 17:05:34.932418
+2025-12-10 17:15:34,974 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-10 17:15:34.974921
+2025-12-10 17:25:34,949 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-10 17:25:34.949504
+2025-12-10 17:35:34,980 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-10 17:35:34.980020
+2025-12-10 17:45:34,972 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-10 17:45:34.972592
+2025-12-10 17:55:34,983 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-10 17:55:34.983000
+2025-12-10 18:00:49,091 [INFO] [MainThread] [root/bar_manager.py:80]: Screens updated. Re-initialising all bars.
+2025-12-10 18:00:49,091 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of screen update.
+2025-12-10 18:00:49,206 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-12-10 18:00:49,207 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-12-10 18:00:49,208 [INFO] [MainThread] [root/bar.py:154]: Screen geometry changed. Updating position for bar primary-bar on screen DELL P2422HE
+2025-12-10 18:00:49,774 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-12-10 18:00:49,775 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-12-10 18:00:49,818 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-12-10 18:00:49,835 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-12-10 18:00:49,843 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-12-10 18:00:51,272 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2025-12-10 18:00:51,274 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2025-12-10 18:00:51,279 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-12-10 18:00:54,322 [INFO] [MainThread] [root/service.py:39]: AudioInputService starting...
+2025-12-10 18:00:54,419 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2025-12-10 18:00:55,077 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-12-10 18:00:55,078 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-12-10 18:00:55,080 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\vcardozo\.config\yasb
+2025-12-10 18:00:55,182 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2025-12-10 18:00:55,182 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-12-10 18:00:55,189 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-12-10 18:00:55,526 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-10 18:00:55.526388
+2025-12-10 18:01:33,331 [INFO] [MainThread] [root/bar_manager.py:80]: Screens updated. Re-initialising all bars.
+2025-12-10 18:01:33,331 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of screen update.
+2025-12-10 18:01:33,435 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-12-10 18:01:33,435 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-12-10 18:01:33,635 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-12-10 18:01:33,635 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-12-10 18:01:33,701 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-12-10 18:01:33,716 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-12-10 18:01:33,720 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-12-10 18:01:34,446 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2025-12-10 18:01:34,446 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2025-12-10 18:01:34,447 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-12-10 18:01:36,017 [INFO] [MainThread] [root/service.py:39]: AudioInputService starting...
+2025-12-10 18:01:36,164 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2025-12-10 18:01:37,595 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-12-10 18:01:37,596 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-12-10 18:01:37,597 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\vcardozo\.config\yasb
+2025-12-10 18:01:37,684 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2025-12-10 18:01:37,684 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-12-10 18:01:37,686 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-12-10 18:01:37,938 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-10 18:01:37.938512
+2025-12-10 18:03:12,484 [INFO] [MainThread] [root/controller.py:35]: Exiting Application...
+2025-12-10 18:03:12,594 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-12-10 18:03:12,594 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-12-10 18:03:13,124 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-12-10 18:03:13,125 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-12-10 18:03:13,161 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-12-10 18:03:13,174 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-12-10 18:03:13,176 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-12-11 09:13:28,322 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2025-12-11 09:13:28,323 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2025-12-11 09:13:28,324 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-12-11 09:13:29,741 [INFO] [MainThread] [root/service.py:39]: AudioInputService starting...
+2025-12-11 09:13:29,847 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2025-12-11 09:13:30,213 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-12-11 09:13:30,214 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-12-11 09:13:30,216 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\vcardozo\.config\yasb
+2025-12-11 09:13:30,286 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2025-12-11 09:13:30,286 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-12-11 09:13:30,288 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-12-11 09:13:30,595 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-11 09:13:30.595250
+2025-12-11 09:24:38,240 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-11 09:24:38.240382
+2025-12-11 09:36:49,638 [INFO] [MainThread] [root/bar_manager.py:80]: Screens updated. Re-initialising all bars.
+2025-12-11 09:36:49,638 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of screen update.
+2025-12-11 09:36:49,740 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-12-11 09:36:49,740 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-12-11 09:36:50,098 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-12-11 09:36:50,099 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-12-11 09:36:50,114 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-12-11 09:36:50,116 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-12-11 09:36:50,121 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-12-11 09:36:51,709 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2025-12-11 09:36:51,711 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2025-12-11 09:36:51,713 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-12-11 09:36:54,910 [INFO] [MainThread] [root/service.py:39]: AudioInputService starting...
+2025-12-11 09:36:55,165 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2025-12-11 09:36:56,354 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-12-11 09:36:56,354 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-12-11 09:36:56,356 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\vcardozo\.config\yasb
+2025-12-11 09:36:56,408 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2025-12-11 09:36:56,408 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-12-11 09:36:56,411 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-12-11 09:36:56,599 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-11 09:36:56.598984
+2025-12-11 09:37:55,603 [INFO] [MainThread] [root/bar_manager.py:80]: Screens updated. Re-initialising all bars.
+2025-12-11 09:37:55,603 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of screen update.
+2025-12-11 09:37:55,717 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-12-11 09:37:55,717 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-12-11 09:37:56,010 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-12-11 09:37:56,011 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-12-11 09:37:56,045 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-12-11 09:37:56,060 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-12-11 09:37:56,063 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-12-11 09:37:56,745 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2025-12-11 09:37:56,747 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2025-12-11 09:37:56,748 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-12-11 09:37:59,066 [INFO] [MainThread] [root/service.py:39]: AudioInputService starting...
+2025-12-11 09:37:59,288 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2025-12-11 09:37:59,503 [INFO] [MainThread] [root/bar_manager.py:80]: Screens updated. Re-initialising all bars.
+2025-12-11 09:37:59,503 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of screen update.
+2025-12-11 09:37:59,604 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-12-11 09:37:59,605 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-12-11 09:38:00,057 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-12-11 09:38:00,059 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-12-11 09:38:00,059 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\vcardozo\.config\yasb
+2025-12-11 09:38:00,195 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2025-12-11 09:38:00,195 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-12-11 09:38:00,199 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-12-11 09:38:00,354 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2025-12-11 09:38:00,355 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2025-12-11 09:38:00,356 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-12-11 09:38:00,356 [INFO] [MainThread] [root/main.py:45]: Waiting for previous YASB instance to exit...
+2025-12-11 09:38:00,365 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-12-11 09:38:00,365 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-12-11 09:38:00,367 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-11 09:38:00.367355
+2025-12-11 09:38:00,404 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:220]: Stopping worker thread...
+2025-12-11 09:38:00,415 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:204]: Exiting thread
+2025-12-11 09:38:00,417 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:78]: Closing
+2025-12-11 09:38:00,607 [INFO] [MainThread] [root/main.py:71]: Previous instance exited, continuing startup.
+2025-12-11 09:38:03,192 [INFO] [MainThread] [root/service.py:39]: AudioInputService starting...
+2025-12-11 09:38:03,439 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2025-12-11 09:38:04,286 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-12-11 09:38:04,286 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-12-11 09:38:04,287 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\vcardozo\.config\yasb
+2025-12-11 09:38:04,345 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2025-12-11 09:38:04,345 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-12-11 09:38:04,348 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-12-11 09:38:04,452 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-11 09:38:04.452347
+2025-12-11 09:48:02,926 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-11 09:48:02.926088
+2025-12-11 09:58:02,915 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-11 09:58:02.915309
+2025-12-11 10:08:02,931 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-11 10:08:02.931645
+2025-12-11 10:18:02,942 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-11 10:18:02.942267
+2025-12-11 10:28:02,921 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-11 10:28:02.921940
+2025-12-11 10:38:02,971 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-11 10:38:02.971433
+2025-12-11 10:48:02,982 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-11 10:48:02.982241
+2025-12-11 10:57:27,760 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping SystemEventListener...
+2025-12-11 10:57:27,761 [INFO] [MainThread] [root/bar_manager.py:92]: Stopping WindowsNotificationEventListener...
+2025-12-11 11:00:37,918 [INFO] [MainThread] [root/log.py:69]: YASB v1.8.6
+2025-12-11 11:00:37,920 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.4
+2025-12-11 11:00:37,921 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-12-11 11:00:42,395 [INFO] [MainThread] [root/service.py:39]: AudioInputService starting...
+2025-12-11 11:00:42,685 [INFO] [MainThread] [root/service.py:48]: AudioOutputService starting...
+2025-12-11 11:00:43,955 [INFO] [MainThread] [root/bar_manager.py:85]: Starting WindowsNotificationEventListener...
+2025-12-11 11:00:43,956 [INFO] [MainThread] [root/bar_manager.py:85]: Starting SystemEventListener...
+2025-12-11 11:00:43,957 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\vcardozo\.config\yasb
+2025-12-11 11:00:44,045 [INFO] [MainThread] [root/update_service.py:409]: Background update checker started
+2025-12-11 11:00:44,045 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-12-11 11:00:44,049 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2025-12-11 11:00:45,250 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-11 11:00:45.250571
+2025-12-11 11:10:41,660 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-11 11:10:41.660139
+2025-12-11 11:20:41,656 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-11 11:20:41.656848
+2025-12-11 11:30:41,671 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-11 11:30:41.671348
+2025-12-11 11:54:47,184 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-11 11:54:47.184227
+2025-12-11 12:53:27,520 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-11 12:53:27.520099
+2025-12-11 13:03:27,497 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-11 13:03:27.497581
+2025-12-11 13:13:27,514 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-11 13:13:27.514297
+2025-12-11 13:23:27,523 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-11 13:23:27.523188
+2025-12-11 13:33:27,547 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-11 13:33:27.547018
+2025-12-11 13:43:27,544 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-11 13:43:27.544538
+2025-12-11 13:53:27,563 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-11 13:53:27.563366
+2025-12-11 14:03:27,555 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-11 14:03:27.555532
+2025-12-11 14:13:27,549 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-11 14:13:27.549882
+2025-12-11 14:23:27,529 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-11 14:23:27.529344
+2025-12-11 14:33:27,564 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-11 14:33:27.564788
+2025-12-11 14:43:27,553 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-11 14:43:27.553092
+2025-12-11 14:53:27,553 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-11 14:53:27.553921
+2025-12-11 15:03:27,561 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-11 15:03:27.561190
+2025-12-11 15:13:27,657 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-11 15:13:27.657334
+2025-12-11 15:23:27,637 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-11 15:23:27.637246
+2025-12-11 15:33:27,584 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-11 15:33:27.584495
+2025-12-11 15:43:27,580 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-11 15:43:27.580093
+2025-12-11 15:53:27,593 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-11 15:53:27.593676
+2025-12-11 16:03:27,583 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-11 16:03:27.583752
+2025-12-11 16:23:31,103 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-11 16:23:31.103030
+2025-12-11 16:35:32,252 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-11 16:35:32.252824
+2025-12-11 16:46:47,086 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-11 16:46:47.086926
+2025-12-11 16:59:28,272 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-11 16:59:28.272604
+2025-12-11 17:39:36,358 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-11 17:39:36.358657
+2025-12-11 17:49:36,391 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-11 17:49:36.391699
+2025-12-11 17:59:36,368 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-11 17:59:36.368214
+2025-12-11 18:09:36,362 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-11 18:09:36.362800
+2025-12-11 18:19:36,366 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-11 18:19:36.366526
+2025-12-11 18:29:36,367 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-11 18:29:36.367797
+2025-12-11 18:39:36,430 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-11 18:39:36.430001
+2025-12-11 18:49:36,551 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-11 18:49:36.551360
+2025-12-11 18:59:36,642 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2025-12-11 18:59:36.642384
